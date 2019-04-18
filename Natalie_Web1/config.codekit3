@@ -19,27 +19,25 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/img/header/burger.jpg": {
-		"ft": 16384,
-		"iS": 568,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/header/burger.jpg",
+	"/img/header/burger.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/header/burger.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/header/logo.jpg": {
-		"ft": 16384,
-		"iS": 3356,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/header/logo.jpg",
+	"/img/header/logo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/header/logo.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/hero/hero.jpg": {
 		"ft": 16384,
@@ -52,71 +50,65 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/ingredients/binoculars.jpg": {
-		"ft": 16384,
-		"iS": 2039,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ingredients/binoculars.jpg",
+	"/img/ingredients/binoculars.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/binoculars.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/ingredients/cards.jpg": {
-		"ft": 16384,
-		"iS": 1400,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ingredients/cards.jpg",
+	"/img/ingredients/cards.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/cards.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/ingredients/clock.jpg": {
-		"ft": 16384,
-		"iS": 1561,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ingredients/clock.jpg",
+	"/img/ingredients/clock.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/clock.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/ingredients/cup.jpg": {
-		"ft": 16384,
-		"iS": 1611,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ingredients/cup.jpg",
+	"/img/ingredients/cup.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/cup.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/ingredients/pig.jpg": {
-		"ft": 16384,
-		"iS": 1543,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ingredients/pig.jpg",
+	"/img/ingredients/pig.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/pig.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/ingredients/triangle.jpg": {
-		"ft": 16384,
-		"iS": 2023,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/ingredients/triangle.jpg",
+	"/img/ingredients/triangle.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/ingredients/triangle.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/img/mobile/mobile.png": {
 		"ft": 32768,
@@ -129,27 +121,25 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/pricing/check.jpg": {
-		"ft": 16384,
-		"iS": 605,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/pricing/check.jpg",
+	"/img/pricing/check.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/pricing/check.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
-	"/img/pricing/info.jpg": {
-		"ft": 16384,
-		"iS": 614,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/pricing/info.jpg",
+	"/img/pricing/info.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/pricing/info.svg",
 		"oF": 0,
-		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"/index.html": {
 		"cB": 0,
