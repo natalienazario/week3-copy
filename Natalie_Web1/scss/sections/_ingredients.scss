@@ -1,13 +1,13 @@
 /* ================================
-        Header css
+        Ingredients
 ================================ */
-header{
-  background-color:yellow;
+#ingredients{
+  background-color:pink;
   display: grid;
   grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". ingredients .";
 
   >div{
-    grid-area: header;
+    grid-area: ingredients;
   }
 }

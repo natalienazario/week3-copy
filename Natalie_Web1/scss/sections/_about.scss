@@ -1,13 +1,13 @@
 /* ================================
-        Header css
+        About
 ================================ */
-header{
-  background-color:yellow;
+#about{
+  background-color:lightblue;
   display: grid;
   grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". about .";
 
   >div{
-    grid-area: header;
+    grid-area: about;
   }
 }

@@ -1,13 +1,13 @@
 /* ================================
-        Header css
+        Hero
 ================================ */
-header{
-  background-color:yellow;
+#hero{
+  background-color:orange;
   display: grid;
   grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". hero .";
 
   >div{
-    grid-area: header;
+    grid-area: hero;
   }
 }

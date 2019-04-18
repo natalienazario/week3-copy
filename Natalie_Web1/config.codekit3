@@ -4,7 +4,7 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "D78E34FA-A731-4BA7-BDC4-2B13F8F78485"
+		"uuidString": "9AF8AF5D-723D-40E8-8D05-F68FE7BD4072"
 		}
 	],
 "creatorBuild": "29156",
@@ -14,7 +14,7 @@
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
-		"oA": 0,
+		"oA": 1,
 		"oAP": "/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
@@ -289,6 +289,84 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/sections/_about.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_about.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_convinced.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_convinced.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_hero.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_hero.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_ingredients.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_ingredients.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_mobile.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_mobile.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_pricing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_pricing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -298,7 +376,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/styles.css",
-		"oF": 2,
+		"oF": 3,
 		"oS": 0,
 		"uL": 1
 		}
@@ -309,7 +387,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 576990683.37250197,
-	"displayValue": "template project ( dev )",
+	"displayValue": "Natalie_Web1",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-wonka",
 	"iconImageWasSetByUser": 0

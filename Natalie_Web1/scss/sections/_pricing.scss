@@ -1,13 +1,13 @@
 /* ================================
-        Header css
+        Pricing
 ================================ */
-header{
-  background-color:yellow;
+#pricing{
+  background-color:violet;
   display: grid;
   grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". pricing .";
 
   >div{
-    grid-area: header;
+    grid-area: pricing;
   }
 }

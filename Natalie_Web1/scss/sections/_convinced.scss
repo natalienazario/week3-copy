@@ -1,13 +1,13 @@
 /* ================================
-        Header css
+        Convinced
 ================================ */
-header{
-  background-color:yellow;
+#convinced{
+  background-color:lightgreen;
   display: grid;
   grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header .";
+  grid-template-areas: ". convinced .";
 
   >div{
-    grid-area: header;
+    grid-area: convinced;
   }
 }

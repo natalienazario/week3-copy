@@ -334,6 +334,87 @@ template {
 /* ================================
         Header css
 ================================ */
+header {
+  background-color: yellow;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". header ."; }
+  header > div {
+    grid-area: header; }
+
 /* ================================
         Footer css
 ================================ */
+footer {
+  background-color: lightyellow;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". footer ."; }
+  footer > div {
+    grid-area: footer; }
+
+/* ================================
+        Hero
+================================ */
+#hero {
+  background-color: orange;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". hero ."; }
+  #hero > div {
+    grid-area: hero; }
+
+/* ================================
+        Ingredients
+================================ */
+#ingredients {
+  background-color: pink;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". ingredients ."; }
+  #ingredients > div {
+    grid-area: ingredients; }
+
+/* ================================
+        Mobile
+================================ */
+#mobile {
+  background-color: red;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". mobile ."; }
+  #mobile > div {
+    grid-area: mobile; }
+
+/* ================================
+        About
+================================ */
+#about {
+  background-color: lightblue;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". about ."; }
+  #about > div {
+    grid-area: about; }
+
+/* ================================
+        Pricing
+================================ */
+#pricing {
+  background-color: violet;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". pricing ."; }
+  #pricing > div {
+    grid-area: pricing; }
+
+/* ================================
+        Convinced
+================================ */
+#convinced {
+  background-color: lightgreen;
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". convinced ."; }
+  #convinced > div {
+    grid-area: convinced; }
