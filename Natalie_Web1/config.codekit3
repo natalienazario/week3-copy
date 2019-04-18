@@ -50,65 +50,16 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/img/ingredients/binoculars.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/ingredients/binoculars.svg",
+	"/img/ingredients/check.png": {
+		"ft": 32768,
+		"iS": 299,
+		"oA": 0,
+		"oAP": "/img/ingredients/check.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/img/ingredients/cards.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/ingredients/cards.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/img/ingredients/clock.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/ingredients/clock.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/img/ingredients/cup.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/ingredients/cup.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/img/ingredients/pig.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/ingredients/pig.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/img/ingredients/triangle.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/ingredients/triangle.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"oT": 1,
+		"q": 100
 		},
 	"/img/mobile/mobile.png": {
 		"ft": 32768,
@@ -121,15 +72,16 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/img/pricing/check.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/img/pricing/check.svg",
+	"/img/pricing/check.png": {
+		"ft": 32768,
+		"iS": 505,
+		"oA": 0,
+		"oAP": "/img/pricing/check.png",
 		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"oT": 1,
+		"q": 100
 		},
 	"/img/pricing/info.svg": {
 		"ft": 2097152,
