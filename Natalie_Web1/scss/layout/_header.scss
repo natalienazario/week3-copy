@@ -2,12 +2,10 @@
         Header css
 ================================ */
 header{
-  background-color:yellow;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header .";
 
-  >div{
-    grid-area: header;
+  img{
+    padding-top: 9px;
+    padding-right: 92px;
+    padding-left: 9px;
   }
 }

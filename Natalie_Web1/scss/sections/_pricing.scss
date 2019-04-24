@@ -2,12 +2,15 @@
         Pricing
 ================================ */
 #pricing{
-  background-color:violet;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". pricing .";
-
-  >div{
-    grid-area: pricing;
+  h1{
+    margin-top: 102px;
+    margin-bottom: 36px;
+  }
+  p{
+    margin-bottom: 111px;
+  }
+  li{
+    list-style: none;
+    margin-bottom: 19px;
   }
 }

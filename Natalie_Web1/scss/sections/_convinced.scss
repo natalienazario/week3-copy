@@ -2,12 +2,11 @@
         Convinced
 ================================ */
 #convinced{
-  background-color:lightgreen;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". convinced .";
-
-  >div{
-    grid-area: convinced;
+  h2{
+    margin-top: 116px;
+  }
+  p{
+    margin-top: 22px;
+    margin-bottom: 60px;
   }
 }

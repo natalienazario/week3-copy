@@ -11,6 +11,20 @@ html {
 /* ================================
         Base css
 ================================ */
+ul {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0; }
+  ul li {
+    list-style: none; }
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 10px auto 10px;
+  grid-template-areas: ". content ."; }
+  .content-grid .content-grid-item {
+    grid-area: content; }
+
 /* ================================
         Normalize css
 ================================ */
@@ -322,6 +336,14 @@ template {
 /* ================================
         Typography css
 ================================ */
+h1, h2, h3, h4, h5 {
+  padding: 0;
+  margin: 0; }
+
+p {
+  padding: 0;
+  margin: 0; }
+
 /* ================================
         Buttons css
 ================================ */
@@ -334,87 +356,111 @@ template {
 /* ================================
         Header css
 ================================ */
-header {
-  background-color: yellow;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". header ."; }
-  header > div {
-    grid-area: header; }
+header img {
+  padding-top: 9px;
+  padding-right: 92px;
+  padding-left: 9px; }
 
 /* ================================
         Footer css
 ================================ */
-footer {
-  background-color: lightyellow;
+footer ul {
   display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". footer ."; }
-  footer > div {
-    grid-area: footer; }
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 32px; }
+
+footer li {
+  margin-top: 84px; }
+
+footer h3 {
+  margin-top: 6px; }
 
 /* ================================
         Hero
 ================================ */
 #hero {
-  background-color: orange;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". hero ."; }
-  #hero > div {
-    grid-area: hero; }
+  background-color: white;
+  color: #fff;
+  padding-bottom: 230px; }
+  #hero h1 {
+    margin-top: 90px;
+    margin-bottom: -90px; }
+  #hero p {
+    margin-top: 125px;
+    margin-bottom: -125px; }
+
+#hero-image {
+  background-image: url("../img/hero/hero.jpg");
+  background-size: cover;
+  height: 302px;
+  margin-top: -302px; }
 
 /* ================================
         Ingredients
 ================================ */
-#ingredients {
-  background-color: pink;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". ingredients ."; }
-  #ingredients > div {
-    grid-area: ingredients; }
+#ingredients h1 {
+  margin-top: 55px;
+  margin-bottom: 74px; }
+
+#ingredients h2 {
+  margin-top: 19px;
+  margin-bottom: 9px; }
+
+#ingredients p {
+  margin-bottom: 30px; }
 
 /* ================================
         Mobile
 ================================ */
-#mobile {
-  background-color: red;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". mobile ."; }
-  #mobile > div {
-    grid-area: mobile; }
+#mobile h1 {
+  margin-top: 105px;
+  margin-bottom: 20px; }
+
+#mobile h2 {
+  margin-bottom: 7px; }
+
+#mobile p {
+  margin-bottom: 14px; }
+
+#mobile-image {
+  background-image: url("../img/mobile/mobile.png");
+  background-size: cover;
+  height: 327px;
+  margin-top: 100px; }
 
 /* ================================
         About
 ================================ */
-#about {
-  background-color: lightblue;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". about ."; }
-  #about > div {
-    grid-area: about; }
+#about h1 {
+  margin-top: 111px;
+  margin-bottom: 35px; }
+
+#about h2 {
+  margin-top: 65px; }
+
+#about p {
+  margin-top: 7px; }
 
 /* ================================
         Pricing
 ================================ */
-#pricing {
-  background-color: violet;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". pricing ."; }
-  #pricing > div {
-    grid-area: pricing; }
+#pricing h1 {
+  margin-top: 102px;
+  margin-bottom: 36px; }
+
+#pricing p {
+  margin-bottom: 111px; }
+
+#pricing li {
+  list-style: none;
+  margin-bottom: 19px; }
 
 /* ================================
         Convinced
 ================================ */
-#convinced {
-  background-color: lightgreen;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". convinced ."; }
-  #convinced > div {
-    grid-area: convinced; }
+#convinced h2 {
+  margin-top: 116px; }
+
+#convinced p {
+  margin-top: 22px;
+  margin-bottom: 60px; }

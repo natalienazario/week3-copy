@@ -2,12 +2,15 @@
         Footer css
 ================================ */
 footer{
-  background-color:lightyellow;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". footer .";
-
-  >div{
-    grid-area: footer;
+  ul {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 32px;
+  }
+  li{
+    margin-top: 84px;
+  }
+  h3{
+    margin-top: 6px;
   }
 }

@@ -2,12 +2,15 @@
         Ingredients
 ================================ */
 #ingredients{
-  background-color:pink;
-  display: grid;
-  grid-template-columns: 10px auto 10px;
-  grid-template-areas: ". ingredients .";
-
-  >div{
-    grid-area: ingredients;
+  h1{
+    margin-top: 55px;
+    margin-bottom: 74px;
+  }
+  h2{
+    margin-top: 19px;
+    margin-bottom: 9px;
+  }
+  p{
+    margin-bottom:30px;
   }
 }
