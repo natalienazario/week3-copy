@@ -41,13 +41,35 @@
 		},
 	"/img/hero/hero.jpg": {
 		"ft": 16384,
-		"iS": 43809,
+		"iS": 126157,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/hero/hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/img/ingredients/binoculars.png": {
+		"ft": 32768,
+		"iS": 1080,
+		"oA": 0,
+		"oAP": "/img/ingredients/binoculars.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/ingredients/cards.png": {
+		"ft": 32768,
+		"iS": 577,
+		"oA": 0,
+		"oAP": "/img/ingredients/cards.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/img/ingredients/check.png": {
@@ -61,9 +83,53 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/img/ingredients/clock.png": {
+		"ft": 32768,
+		"iS": 584,
+		"oA": 0,
+		"oAP": "/img/ingredients/clock.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/ingredients/cup.png": {
+		"ft": 32768,
+		"iS": 740,
+		"oA": 0,
+		"oAP": "/img/ingredients/cup.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/ingredients/pig.png": {
+		"ft": 32768,
+		"iS": 764,
+		"oA": 0,
+		"oAP": "/img/ingredients/pig.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/ingredients/triangle.png": {
+		"ft": 32768,
+		"iS": 590,
+		"oA": 0,
+		"oAP": "/img/ingredients/triangle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/img/mobile/mobile.png": {
 		"ft": 32768,
-		"iS": 13933,
+		"iS": 26487,
 		"oA": 0,
 		"oAP": "/img/mobile/mobile.png",
 		"oF": 0,
