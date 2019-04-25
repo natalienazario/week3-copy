@@ -1,0 +1,25 @@
+/* ================================
+        Hero
+================================ */
+#hero{
+  background-color:white;
+  color: $white;
+  padding-bottom: 230px;
+
+  h1{
+    margin-top: 90px;
+    margin-bottom: -90px;
+  }
+
+  p{
+    margin-top: 125px;
+    margin-bottom: -125px;
+  }
+}
+
+#hero-image{
+  background-image: url('../img/hero/hero.jpg');
+  background-size: cover;
+  height: 302px;
+  margin-top: -302px;
+}

@@ -1,0 +1,16 @@
+/* ================================
+        Footer css
+================================ */
+footer{
+  ul {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 32px;
+  }
+  li{
+    margin-top: 84px;
+  }
+  h3{
+    margin-top: 6px;
+  }
+}

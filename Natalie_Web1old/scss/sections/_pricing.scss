@@ -1,0 +1,26 @@
+/* ================================
+        Pricing
+================================ */
+#pricing{
+  background-color: $lightgray;
+  padding-bottom: 112px;
+  h1{
+    padding-left:108px;
+    margin-top: 66px;
+    margin-bottom: 36px;
+  }
+  p{
+    margin-bottom: 111px;
+  }
+  ul{
+    background-color: $blue;
+    color: $white;
+    padding-left: 7px;
+    padding-right: 115px;
+  }
+  li{
+    list-style: none;
+    margin-bottom: 19px;
+    padding-left: 35.5px;
+  }
+}

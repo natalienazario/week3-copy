@@ -1,0 +1,28 @@
+/* ================================
+        Mobile
+================================ */
+#mobile{
+  background-color: $lightgray;
+  h1{
+    margin-left:111px;
+    margin-top: 55px;
+    margin-bottom: 20px;
+  }
+  article{
+    margin-bottom: 375px;
+  }
+  h2{
+    margin-bottom: 7px;
+  }
+  p{
+    margin-bottom: 14px;
+  }
+}
+
+#mobile-image{
+  background-image: url('../img/mobile/mobile.png');
+  background-size: cover;
+  height: 327px;
+  margin-top: -625px;
+  margin-bottom: 270px;
+}
