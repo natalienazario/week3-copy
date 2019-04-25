@@ -415,8 +415,11 @@ footer h3 {
 #mobile {
   background-color: #F5F5F5; }
   #mobile h1 {
+    margin-left: 111px;
     margin-top: 55px;
     margin-bottom: 20px; }
+  #mobile article {
+    margin-bottom: 375px; }
   #mobile h2 {
     margin-bottom: 7px; }
   #mobile p {
@@ -426,7 +429,8 @@ footer h3 {
   background-image: url("../img/mobile/mobile.png");
   background-size: cover;
   height: 327px;
-  margin-top: 100px; }
+  margin-top: -625px;
+  margin-bottom: 270px; }
 
 /* ================================
         About
@@ -434,6 +438,7 @@ footer h3 {
 #about {
   margin-bottom: 44px; }
   #about h1 {
+    margin-left: 96px;
     margin-top: 111px;
     margin-bottom: 35px; }
   #about article {
@@ -451,7 +456,8 @@ footer h3 {
         Pricing
 ================================ */
 #pricing {
-  background-color: #F5F5F5; }
+  background-color: #F5F5F5;
+  padding-bottom: 112px; }
   #pricing h1 {
     padding-left: 108px;
     margin-top: 66px;
@@ -475,7 +481,7 @@ footer h3 {
   background-color: #01AAF7;
   padding-bottom: 56px; }
   #convinced h2 {
-    margin-top: 116px; }
+    margin-top: 23px; }
   #convinced p {
     color: #D8D8D8;
     margin-top: 22px;
