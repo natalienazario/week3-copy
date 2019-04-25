@@ -398,29 +398,29 @@ footer h3 {
 /* ================================
         Ingredients
 ================================ */
-#ingredients h1 {
-  margin-top: 55px;
-  margin-bottom: 74px; }
-
-#ingredients h2 {
-  margin-top: 19px;
-  margin-bottom: 9px; }
-
-#ingredients p {
-  margin-bottom: 30px; }
+#ingredients {
+  margin-bottom: 50px; }
+  #ingredients h1 {
+    margin-top: 55px;
+    margin-bottom: 74px; }
+  #ingredients h2 {
+    margin-top: 19px;
+    margin-bottom: 9px; }
+  #ingredients p {
+    margin-bottom: 30px; }
 
 /* ================================
         Mobile
 ================================ */
-#mobile h1 {
-  margin-top: 105px;
-  margin-bottom: 20px; }
-
-#mobile h2 {
-  margin-bottom: 7px; }
-
-#mobile p {
-  margin-bottom: 14px; }
+#mobile {
+  background-color: #F5F5F5; }
+  #mobile h1 {
+    margin-top: 55px;
+    margin-bottom: 20px; }
+  #mobile h2 {
+    margin-bottom: 7px; }
+  #mobile p {
+    margin-bottom: 14px; }
 
 #mobile-image {
   background-image: url("../img/mobile/mobile.png");
@@ -431,36 +431,52 @@ footer h3 {
 /* ================================
         About
 ================================ */
-#about h1 {
-  margin-top: 111px;
-  margin-bottom: 35px; }
-
-#about h2 {
-  margin-top: 65px; }
-
-#about p {
-  margin-top: 7px; }
+#about {
+  margin-bottom: 44px; }
+  #about h1 {
+    margin-top: 111px;
+    margin-bottom: 35px; }
+  #about article {
+    background-color: #F5F5F5;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-left: 10px;
+    padding-right: 10px; }
+  #about h2 {
+    margin-top: 65px; }
+  #about p {
+    margin-top: 7px; }
 
 /* ================================
         Pricing
 ================================ */
-#pricing h1 {
-  margin-top: 102px;
-  margin-bottom: 36px; }
-
-#pricing p {
-  margin-bottom: 111px; }
-
-#pricing li {
-  list-style: none;
-  margin-bottom: 19px; }
+#pricing {
+  background-color: #F5F5F5; }
+  #pricing h1 {
+    padding-left: 108px;
+    margin-top: 66px;
+    margin-bottom: 36px; }
+  #pricing p {
+    margin-bottom: 111px; }
+  #pricing ul {
+    background-color: #01AAF7;
+    color: #fff;
+    padding-left: 7px;
+    padding-right: 115px; }
+  #pricing li {
+    list-style: none;
+    margin-bottom: 19px;
+    padding-left: 35.5px; }
 
 /* ================================
         Convinced
 ================================ */
-#convinced h2 {
-  margin-top: 116px; }
-
-#convinced p {
-  margin-top: 22px;
-  margin-bottom: 60px; }
+#convinced {
+  background-color: #01AAF7;
+  padding-bottom: 56px; }
+  #convinced h2 {
+    margin-top: 116px; }
+  #convinced p {
+    color: #D8D8D8;
+    margin-top: 22px;
+    margin-bottom: 60px; }
